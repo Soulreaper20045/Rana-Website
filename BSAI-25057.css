@@ -16,7 +16,7 @@ nav button {
     background-color: white;
     border: none;
     color: #0073e6;
-    padding: 10px 25px;
+    padding: 12px 25px;
     margin: 5px;
     cursor: pointer;
     font-size: 16px;
@@ -25,7 +25,7 @@ nav button {
 }
 
 nav button:hover {
-    background-color: #cce6ff;
+    background-color: #add7ff;
     transform: scale(1.05);
 }
 
@@ -35,7 +35,7 @@ nav button:hover {
     background-position: center;
     color: white;
     text-align: center;
-    height: 90vh;
+    height: 92vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
